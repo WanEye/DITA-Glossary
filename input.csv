@@ -3,3 +3,5 @@ Border Gateway Protocol|The routing protocol of the Internet that routes traffic
 end of rack|Data center configuration where each server in individual racks are connected to a common EOR aggregation switch directly, without connecting to individual switches in each rack. See also TOR (top of rack).|EOR
 top of rack|Data center configuration where each server in individual racks are connected to a common EOR aggregation switch directly. The servers do not connect to individual switches in each rack. See also EOR (end of rack).|TOR
 Border Gateway Protocol|The routing protocol of the Internet that routes traffic across the internet.|BGP
+No definition| |
+End of rack|Data center configuration where each server in individual racks are connected to a common EOR aggregation switch directly, without connecting to individual switches in each rack. See also TOR (top of rack).|EOR

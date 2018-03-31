@@ -84,7 +84,7 @@ sub R20_Init_Line{
     $glossentry=$glossentryTag.$glosstermTag.$glossdefTag;
     
     # if the next entry is the same, the routine adds _ and a serial number
-    $prevFileRow=$fileline[0];
+    $prevFileRow=$ID;
     
     #set switch for <>glossbody> tag
     if ($fileline[2] gt "\x20"){

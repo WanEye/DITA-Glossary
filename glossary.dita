@@ -5,14 +5,21 @@
 <glossentry id="BorderGatewayProtocol"> 
   <glossterm>Border Gateway Protocol</glossterm> 
   <glossdef>The routing protocol of the Internet that routes traffic across the internet.</glossdef>
-  <glossBody><glossAlt><glossAcronym>BGP</glossAcronym></glossAlt></glossBody>
+  <glossBody><glossAlt><glossAcronym>BGP
+</glossAcronym></glossAlt></glossBody>
 </glossentry> 
  
-<glossentry id="BorderGatewayProtocol"> 
+<glossentry id="BorderGatewayProtocol_1"> 
   <glossterm>Border Gateway Protocol</glossterm> 
   <glossdef>The routing protocol of the Internet that routes traffic across the internet.</glossdef>
   <glossBody><glossAlt><glossAcronym>BGP
 </glossAcronym></glossAlt></glossBody>
+</glossentry> 
+ 
+<glossentry id="Endofrack"> 
+  <glossterm>End of rack</glossterm> 
+  <glossdef>Data center configuration where each server in individual racks are connected to a common EOR aggregation switch directly, without connecting to individual switches in each rack. See also TOR (top of rack).</glossdef>
+  <glossBody><glossAlt><glossAcronym>EOR</glossAcronym></glossAlt></glossBody>
 </glossentry> 
  
 <glossentry id="endofrack"> 
@@ -20,6 +27,11 @@
   <glossdef>Data center configuration where each server in individual racks are connected to a common EOR aggregation switch directly, without connecting to individual switches in each rack. See also TOR (top of rack).</glossdef>
   <glossBody><glossAlt><glossAcronym>EOR
 </glossAcronym></glossAlt></glossBody>
+</glossentry> 
+ 
+<glossentry id="Nodefinition"> 
+  <glossterm>No definition</glossterm> 
+  <glossdef> </glossdef>
 </glossentry> 
  
 <glossentry id="SoftwareDefinedNetwork"> 

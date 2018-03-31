@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossgroup.dtd">
+<glossgroup id="glossgroup_glossary">
+<title>Glossary</title> 
+<glossentry id="BorderGatewayProtocol"> 
+  <glossterm>Border Gateway Protocol</glossterm> 
+  <glossdef>The routing protocol of the Internet that routes traffic across the internet.</glossdef>
+  <glossBody><glossAlt><glossAcronym>BGP</glossAcronym></glossAlt></glossBody>
+</glossentry> 
+ 
+<glossentry id="BorderGatewayProtocol"> 
+  <glossterm>Border Gateway Protocol</glossterm> 
+  <glossdef>The routing protocol of the Internet that routes traffic across the internet.</glossdef>
+  <glossBody><glossAlt><glossAcronym>BGP
+</glossAcronym></glossAlt></glossBody>
+</glossentry> 
+ 
+<glossentry id="endofrack"> 
+  <glossterm>end of rack</glossterm> 
+  <glossdef>Data center configuration where each server in individual racks are connected to a common EOR aggregation switch directly, without connecting to individual switches in each rack. See also TOR (top of rack).</glossdef>
+  <glossBody><glossAlt><glossAcronym>EOR
+</glossAcronym></glossAlt></glossBody>
+</glossentry> 
+ 
+<glossentry id="SoftwareDefinedNetwork"> 
+  <glossterm>Software Defined Network</glossterm> 
+  <glossdef>OpenShift Container Platform uses software defined networking to provide a unified cluster network so that pods communicate with each other across the cluster. OpenShift SDN establishes and maintains this pod network</glossdef>
+  <glossBody><glossAlt><glossAcronym>SDN
+</glossAcronym></glossAlt></glossBody>
+</glossentry> 
+ 
+<glossentry id="topofrack"> 
+  <glossterm>top of rack</glossterm> 
+  <glossdef>Data center configuration where each server in individual racks are connected to a common EOR aggregation switch directly. The servers do not connect to individual switches in each rack. See also EOR (end of rack).</glossdef>
+  <glossBody><glossAlt><glossAcronym>TOR
+</glossAcronym></glossAlt></glossBody>
+</glossentry> 
+ 
+</glossgroup>
